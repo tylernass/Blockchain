@@ -1,5 +1,5 @@
 Overview
 
-Technology: Solidit
+Technology: Solidity
 
 Projects: Solidity Fundamentals
